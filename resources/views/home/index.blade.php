@@ -11,7 +11,7 @@
     <div id="alan">
         <h4>Titulo dentro</h4>
         <ul>
-            <li class="dentro">lista 1</li>
+        <li class="dentro">lista 1asd asd asd asd asd asd {{ now() }}</li>
         </ul>
     </div>
 </body>
